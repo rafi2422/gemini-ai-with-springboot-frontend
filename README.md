@@ -1,4 +1,10 @@
-# React + Vite
+# gemini-ai-with-springboot-frontend
+
+This project is a React + Vite frontend for the Gemini AI system with Spring Boot backend.
+
+---
+
+## React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
